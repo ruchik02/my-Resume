@@ -12,7 +12,7 @@ const About = () => {
       </div>
       
       <p className='text-lg text-gray-600 dark:text-gray-400 mb-8'>
-      I am a skilled software developer with over 3+ year of valuable experience, currently employed at GeekyAnts. My expertise primarily lies in React, SwiftUI and React-Native. I am committed to delivering high-quality software solutions and thrive in collaborative, innovative.
+      I am a skilled software developer with over 3+ year of valuable experience, currently employed at GeekyAnts. My expertise primarily lies in React, SwiftUI and React-Native. I am committed to delivering high-quality software solutions and thrive in collaborative, innovative environments.
       </p>
 
       {/* What I am doing section */}
