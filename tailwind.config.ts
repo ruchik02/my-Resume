@@ -11,8 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "var(--primary)",
+        secondary: "var(--secondary)",
+        card: "var(--card-bg)",
       },
     },
   },
+  darkMode: "media",
   plugins: [],
 } satisfies Config;
